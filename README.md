@@ -1,2 +1,2 @@
 # python_games
-Games written in Python
+Some classical games written in Python, for practice.
